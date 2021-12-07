@@ -1,3 +1,5 @@
+# Yashin Nikita, nickname: YashiN
+
 def f():
     print('OK, and?')
 
